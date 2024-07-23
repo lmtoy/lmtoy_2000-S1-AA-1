@@ -1,3 +1,4 @@
-# 2023-S1-US-18
+# 2000-S1-AA-1
 
-this project ....
+This project is only used to test the script generator. It creates run file that
+can be inspected and used by other tools to execute the pipeline.

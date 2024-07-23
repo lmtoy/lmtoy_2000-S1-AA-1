@@ -1,5 +1,11 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
-#123456    QAFAIL
-#123456__1       extra bad beam     # pix_list=-4,-13,14,15
-#123456__0       standard           # pix_list=-13
 #
+
+123456__0   bank 0 nice      # pix_list=-0,13
+123456__1   bank 1 pretty    # pix_list=-0,13,14,15
+
+#123458  QAFAIL   not allowed yet, each bank needs set
+123458__0  QAFAIL
+123458__1  QAFAIL
+
+134569  QAFAIL
