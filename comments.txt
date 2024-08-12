@@ -8,4 +8,4 @@
 123458__0  QAFAIL
 123458__1  QAFAIL
 
-134569  QAFAIL
+134569  QAFAIL but perhaps salvageable
