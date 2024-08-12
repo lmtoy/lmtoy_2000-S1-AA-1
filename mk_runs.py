@@ -26,8 +26,7 @@ pars2['test_rsr']   = ""
 
 #        common parameters per source on subsequent runs (run1c, run2c), e.g. bank=1 for WARES
 pars3 = {}
-pars3['test_seq']   = "bank=0 pix_list=-13,14,15 birdies=512,1024"
-pars2['test_rsr']   = ""
+pars3['test_seq']   = "bank=1 pix_list=-13,14,15 birdies=512,1024"
 
 if __name__ == '__main__':    
     runs.mk_runs(project, on, pars1, pars2, pars3, sys.argv)
