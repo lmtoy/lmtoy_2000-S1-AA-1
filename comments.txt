@@ -9,3 +9,7 @@
 123458__1  QAFAIL
 
 134569  QAFAIL but perhaps salvageable
+
+#
+234567__0 line ok      # foo=0
+234568__1 never done   # foo=1
